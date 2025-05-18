@@ -11,6 +11,7 @@ public class Exam1Application {
 		double d = 12.5f;
 		boolean r = true;
 		char t = 'b';
+	// hello ji
 	public static void main(String[] args){
 		SpringApplication.run(Exam1Application.class, args);
 	}
