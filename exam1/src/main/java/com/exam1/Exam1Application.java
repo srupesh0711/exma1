@@ -10,6 +10,7 @@ public class Exam1Application {
 		int c = 30;
 		double d = 12.5f;
 		boolean r = true;
+		char t = 'b';
 	public static void main(String[] args){
 		SpringApplication.run(Exam1Application.class, args);
 	}
